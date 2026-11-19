@@ -2,7 +2,9 @@
 
 A fun side project: every GitHub profile badge in one place, with the actual badge artwork, how each one is earned, and the tier thresholds.
 
-**Open `index.html` in a browser to browse the guide** — it's a single self-contained file with all the artwork embedded. Or enable GitHub Pages on this repo (Settings → Pages → deploy from `main`) to view it online.
+**Live: https://femisowems.github.io/github-badges-field-guide/**
+
+Or open `index.html` in a browser — it's a single self-contained file with all the artwork embedded, so it works offline too.
 
 ## What's inside
 
