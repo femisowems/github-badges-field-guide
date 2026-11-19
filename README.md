@@ -25,4 +25,8 @@ GitHub doesn't publish an official list of achievements, so the thresholds here 
 
 Badge artwork © GitHub, Inc. This is an unofficial fan guide and is not affiliated with GitHub.
 
-Current score for [@femisowems](https://github.com/femisowems): Pull Shark + Pro — seven earnable achievements still out there.
+## Badge hunt log
+
+For [@femisowems](https://github.com/femisowems): **Pull Shark** ✓ · **Quickdraw** ✓ (Nov 19, 2026 — issue #1 closed in 44 seconds) · **Pro** highlight ✓.
+
+This pull request is itself the **YOLO** attempt: opened and merged with no review.
