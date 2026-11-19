@@ -2,6 +2,8 @@
 
 A fun side project: every GitHub profile badge in one place, with the actual badge artwork, how each one is earned, and the tier thresholds.
 
+> *A note on the badge hunt: this repo doubles as my scoreboard for a personal challenge — seeing how many of GitHub's profile achievements I can earn, honestly and in the open. Everything happens in my own repositories: no spam, no fake accounts, no drive-by contributions to other people's projects. Just a bit of fun alongside the real work.*
+
 **Live: https://femisowems.github.io/github-badges-field-guide/**
 
 Or open `index.html` in a browser — it's a single self-contained file with all the artwork embedded, so it works offline too.
@@ -27,6 +29,6 @@ Badge artwork © GitHub, Inc. This is an unofficial fan guide and is not affilia
 
 ## Badge hunt log
 
-For [@femisowems](https://github.com/femisowems): **Pull Shark** ✓ · **Quickdraw** ✓ (Nov 19, 2026 — issue #1 closed in 44 seconds) · **Pro** highlight ✓.
+For [@femisowems](https://github.com/femisowems): **Pull Shark** ✓ · **Quickdraw** ✓ (Nov 19, 2026 — issue #1 closed in 44 seconds) · **YOLO** ✓ (Nov 19, 2026 — PR #4 merged with no review) · **Galaxy Brain** ✓ (Nov 19, 2026 — two accepted answers in Discussions) · **Pro** highlight ✓.
 
-This pull request is itself the **YOLO** attempt: opened and merged with no review.
+Badge awards can take up to 24 hours to appear on the profile after the qualifying action.
